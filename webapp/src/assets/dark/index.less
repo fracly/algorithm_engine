@@ -1,0 +1,44 @@
+// Ant Design暗黑样式定制，必须为html增加class为dark
+// 与默认样式一起修改的样式优先去default.less中修改，如padding值
+
+// 定义公用色值
+@color-black: rgba(0,0,0,0.95);
+@color-black60: rgba(0,0,0,0.5);
+@color-black20: rgba(0,0,0,0.2);
+@color-white: rgba(255,255,255,0.95);
+@color-white60: rgba(255,255,255,0.5);
+@color-white20: rgba(255,255,255,0.2);
+@color-white10: rgba(255,255,255,0.1);
+@color-background: #003366;
+@color-border: #004c99;
+@color-hl: #007fff;
+@color-hl2: #0af;
+
+html.dark {
+    @import "_base.less";
+    @import "alert.less";
+    @import "button.less";
+    @import "calendar.less";
+    @import "checkbox.less";
+    @import "divider.less";
+    @import "drawer.less";
+    @import "dropdown.less";
+    @import "input.less";
+    @import "message.less";
+    @import "modal.less";
+    @import "notification.less";
+    @import "pagination.less";
+    @import "popover.less";
+    @import "radio.less";
+    @import "select.less";
+    @import "slider.less";
+    @import "spin.less";
+    @import "table.less";
+    @import "tabs.less";
+    @import "tag.less";
+    @import "timeline.less";
+    @import "tree.less";
+    @import "upload.less";
+    @import "cascader.less";
+    @import 'bcht-ant-dark'; // bcht项目定制
+}

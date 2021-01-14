@@ -1,0 +1,65 @@
+// select
+
+.ant-select {
+    color: @color-white60;
+}
+.ant-select-selection {
+    background: @color-background;
+    border-color: @color-border;
+}
+.ant-select-dropdown {
+    background: @color-background;
+    color: @color-white20;
+}
+.ant-select-dropdown-menu-item {
+    color: @color-white60;
+}
+.ant-select-dropdown-menu-item:hover {
+    background: @color-border;
+}
+.ant-select-dropdown-menu-item-disabled {
+    color: @color-white20;
+}
+.ant-select-dropdown-menu-item-disabled:hover {
+    background: @color-border;
+}
+.ant-select-dropdown-menu-item-selected,
+.ant-select-dropdown-menu-item-selected:hover {
+    background: @color-background;
+}
+.ant-select-arrow {
+    color: rgba(255,255,255,0.25);
+}
+.ant-select-dropdown-menu-item-active {
+    background: #004c99;
+}
+.ant-select-tree{
+    color: rgba(255,255,255, .5);
+}
+.ant-select-tree li .ant-select-tree-node-content-wrapper{
+    color: rgba(255,255,255, .5);
+
+    &:hover{
+        color: #004c99;
+    }
+}
+
+// 调整滚动条样式
+.ant-select-dropdown-menu {
+    &::-webkit-scrollbar {
+    width: 8px;
+    }
+    &::-webkit-scrollbar-track {
+    background: rgba(255,255,255,0.05);
+    }
+    &::-webkit-scrollbar-thumb {
+    background: rgba(255,255,255,0.1); 
+    border-radius: 4px;
+    }
+    &::-webkit-scrollbar-thumb:hover {
+    background: rgba(255,255,255,0.2);
+    }
+    &::-webkit-scrollbar-thumb:active {
+    background: rgba(255,255,255,0.3);
+    }
+}

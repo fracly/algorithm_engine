@@ -1,0 +1,38 @@
+// 
+
+.ant-tree {
+    color: rgba(255,255,255,0.5);
+    li {
+        .ant-tree-node-content-wrapper {
+            &:hover {
+                background-color: #10395f;
+            }
+            &.ant-tree-node-selected {
+                color: #fff;
+                background-color: #0af;
+            }
+        }
+        .ant-tree-checkbox {
+            .ant-tree-checkbox-inner {
+                border-color: rgba(255,255,255,0.25);
+                background: none;
+            }
+            &.ant-tree-checkbox-indeterminate {
+                .ant-tree-checkbox-inner {
+                    border-width: 1px;
+                    border-color: #007fff;
+                }
+            }
+            &.ant-tree-checkbox-checked {
+                .ant-tree-checkbox-inner {
+                    border-width: 2px;
+                    border-color: #007fff;
+                }
+            }
+        }
+        .ant-tree-node-content-wrapper {
+            color: rgba(255,255,255,0.5);
+        }
+    }
+    
+}

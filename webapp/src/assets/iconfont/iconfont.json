@@ -1,0 +1,534 @@
+{
+  "id": "2046390",
+  "name": "BchtEngin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2774331",
+      "name": "mileage",
+      "font_class": "mileage",
+      "unicode": "e76b",
+      "unicode_decimal": 59243
+    },
+    {
+      "icon_id": "6841474",
+      "name": "逻辑回归算法",
+      "font_class": "luojihuiguisuanfa",
+      "unicode": "e69c",
+      "unicode_decimal": 59036
+    },
+    {
+      "icon_id": "6545080",
+      "name": "溢流预测",
+      "font_class": "yiliuyuce",
+      "unicode": "e84b",
+      "unicode_decimal": 59467
+    },
+    {
+      "icon_id": "17835467",
+      "name": "imbalance",
+      "font_class": "imbalance",
+      "unicode": "e73b",
+      "unicode_decimal": 59195
+    },
+    {
+      "icon_id": "8515530",
+      "name": "停车数量",
+      "font_class": "tingcheshuliang",
+      "unicode": "e68e",
+      "unicode_decimal": 59022
+    },
+    {
+      "icon_id": "11744020",
+      "name": "相关性分析 ",
+      "font_class": "xiangguanxingfenxi",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "12246813",
+      "name": "排队长度",
+      "font_class": "paiduichangdu",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "12702552",
+      "name": "通行效率参数",
+      "font_class": "tonghangxiaoshuaicanshu",
+      "unicode": "e684",
+      "unicode_decimal": 59012
+    },
+    {
+      "icon_id": "1377402",
+      "name": "在途车辆",
+      "font_class": "daishouhuo",
+      "unicode": "e682",
+      "unicode_decimal": 59010
+    },
+    {
+      "icon_id": "8045880",
+      "name": "时长",
+      "font_class": "shichang",
+      "unicode": "e813",
+      "unicode_decimal": 59411
+    },
+    {
+      "icon_id": "9120900",
+      "name": "拥堵指数",
+      "font_class": "yongduzhishu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "5485664",
+      "name": "速度",
+      "font_class": "sudu",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "5844069",
+      "name": "行程时间预测",
+      "font_class": "hangchengshijianyuce",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "9365791",
+      "name": "当日出入城配置",
+      "font_class": "dangrichuruchengpeizhi",
+      "unicode": "e713",
+      "unicode_decimal": 59155
+    },
+    {
+      "icon_id": "603609",
+      "name": "交通指引",
+      "font_class": "jiaotongzhiyin",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "382759",
+      "name": "交通流量",
+      "font_class": "traffic",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "1256441",
+      "name": "统计信息",
+      "font_class": "tongjixinxi",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "490067",
+      "name": "donut_small",
+      "font_class": "donutsmall",
+      "unicode": "eb2c",
+      "unicode_decimal": 60204
+    },
+    {
+      "icon_id": "310658",
+      "name": "cloud-download",
+      "font_class": "clouddownload",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "3363105",
+      "name": "归一化",
+      "font_class": "guiyihua",
+      "unicode": "e911",
+      "unicode_decimal": 59665
+    },
+    {
+      "icon_id": "14095980",
+      "name": "数据去重",
+      "font_class": "shujuquzhong",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "14278937",
+      "name": "大数据可视化平台",
+      "font_class": "keshihuashujuETL",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "5203263",
+      "name": "禁止",
+      "font_class": "jinzhi",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "9999088",
+      "name": "api 文件",
+      "font_class": "apiwenjian",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "9664112",
+      "name": "拆分",
+      "font_class": "chaifen",
+      "unicode": "e7ae",
+      "unicode_decimal": 59310
+    },
+    {
+      "icon_id": "1027704",
+      "name": "统计分析",
+      "font_class": "tongjifenxi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12217493",
+      "name": "机器学习",
+      "font_class": "jiqixuexi",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14691643",
+      "name": "深度学习",
+      "font_class": "shenduxuexi",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "17366892",
+      "name": "统计分析",
+      "font_class": "tongjifenxi-copy",
+      "unicode": "ef39",
+      "unicode_decimal": 61241
+    },
+    {
+      "icon_id": "852299",
+      "name": "计算器",
+      "font_class": "jisuanqi",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "3888338",
+      "name": "数据过滤",
+      "font_class": "shujuguolv",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "4011042",
+      "name": "字符替换",
+      "font_class": "zifutihuan",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4198788",
+      "name": "预测",
+      "font_class": "yuce",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "4447425",
+      "name": "列名转换",
+      "font_class": "liemingzhuanhuan",
+      "unicode": "ea19",
+      "unicode_decimal": 59929
+    },
+    {
+      "icon_id": "5004507",
+      "name": "算法",
+      "font_class": "suanfa",
+      "unicode": "e712",
+      "unicode_decimal": 59154
+    },
+    {
+      "icon_id": "5856298",
+      "name": "数据预处理",
+      "font_class": "shujuyuchuli",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "6402806",
+      "name": "回归模型评估",
+      "font_class": "huiguimoxingpinggu",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6902816",
+      "name": "线性回归",
+      "font_class": "xianxinghuigui",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "7024724",
+      "name": "相关系数矩阵",
+      "font_class": "xiangguanxishujuzhen",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "7540563",
+      "name": "时间序列分析",
+      "font_class": "shijianxuliefenxi",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "8082862",
+      "name": "添加缺省值(灰)",
+      "font_class": "tianjiaqueshengzhihui",
+      "unicode": "e716",
+      "unicode_decimal": 59158
+    },
+    {
+      "icon_id": "8134471",
+      "name": "核密度",
+      "font_class": "hemidu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "8738460",
+      "name": "数据离散化",
+      "font_class": "shujulisanhua",
+      "unicode": "e678",
+      "unicode_decimal": 59000
+    },
+    {
+      "icon_id": "8738461",
+      "name": "数据离散化 黑",
+      "font_class": "shujulisanhuahei",
+      "unicode": "e679",
+      "unicode_decimal": 59001
+    },
+    {
+      "icon_id": "9568984",
+      "name": "增加列",
+      "font_class": "zengjialie",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "10047564",
+      "name": "时间格式转换",
+      "font_class": "shijiangeshizhuanhuan",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "10698491",
+      "name": "分组聚合",
+      "font_class": "fenzujuhe",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "11300039",
+      "name": "预测",
+      "font_class": "yuce1",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11465887",
+      "name": "字符拼接",
+      "font_class": "zifupinjie",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    },
+    {
+      "icon_id": "11976034",
+      "name": "表关联",
+      "font_class": "biaoguanlian",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "12069054",
+      "name": "截取",
+      "font_class": "jiequ",
+      "unicode": "e8dd",
+      "unicode_decimal": 59613
+    },
+    {
+      "icon_id": "12307233",
+      "name": "多分类评估",
+      "font_class": "duofenleipinggu",
+      "unicode": "e7e0",
+      "unicode_decimal": 59360
+    },
+    {
+      "icon_id": "12562692",
+      "name": "SQL",
+      "font_class": "SQL",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "12850562",
+      "name": "计算时间差",
+      "font_class": "jisuanshijiancha",
+      "unicode": "e6cc",
+      "unicode_decimal": 59084
+    },
+    {
+      "icon_id": "13767650",
+      "name": "偏移",
+      "font_class": "pianyi",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "13979395",
+      "name": "时间函数",
+      "font_class": "shijianhanshu",
+      "unicode": "e751",
+      "unicode_decimal": 59217
+    },
+    {
+      "icon_id": "14108928",
+      "name": "数据过滤",
+      "font_class": "shujuguolv1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "14628756",
+      "name": "机器学习_分类_决策树分类器",
+      "font_class": "jiqixuexi_fenlei_jueceshufenleiqi",
+      "unicode": "e748",
+      "unicode_decimal": 59208
+    },
+    {
+      "icon_id": "16321649",
+      "name": "通用工具",
+      "font_class": "tongyonggongju",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "10798378",
+      "name": "inputOutput",
+      "font_class": "inputOutput",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "13286855",
+      "name": "input",
+      "font_class": "input",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "1671378",
+      "name": "icon_output",
+      "font_class": "icon_output",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "12904218",
+      "name": "shell",
+      "font_class": "shell",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "13130583",
+      "name": "shell",
+      "font_class": "shell1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "1276871",
+      "name": "程序_program1",
+      "font_class": "chengxuprogram1",
+      "unicode": "e724",
+      "unicode_decimal": 59172
+    },
+    {
+      "icon_id": "4067743",
+      "name": "Spark",
+      "font_class": "Spark",
+      "unicode": "e763",
+      "unicode_decimal": 59235
+    },
+    {
+      "icon_id": "5943457",
+      "name": "mapreduce",
+      "font_class": "mapreduce",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "6272424",
+      "name": "process",
+      "font_class": "zuzhi",
+      "unicode": "e77f",
+      "unicode_decimal": 59263
+    },
+    {
+      "icon_id": "7556319",
+      "name": "Sql Server",
+      "font_class": "SqlServer",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11181820",
+      "name": "dependent",
+      "font_class": "dependent",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "13687170",
+      "name": "FontAwesome python",
+      "font_class": "FontAwesomepython",
+      "unicode": "e889",
+      "unicode_decimal": 59529
+    },
+    {
+      "icon_id": "14342018",
+      "name": "subprocess",
+      "font_class": "subprocess",
+      "unicode": "e7c5",
+      "unicode_decimal": 59333
+    },
+    {
+      "icon_id": "14469766",
+      "name": "input",
+      "font_class": "input-back",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15337815",
+      "name": "spark",
+      "font_class": "spark",
+      "unicode": "ef38",
+      "unicode_decimal": 61240
+    },
+    {
+      "icon_id": "15431091",
+      "name": "apachespark",
+      "font_class": "apachespark",
+      "unicode": "ed2e",
+      "unicode_decimal": 60718
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+// 输入框
+
+.ant-input {
+    background: @color-background;
+    border-color: @color-border;
+    color: @color-white60;
+}
+
+textarea {
+    background: @color-background;
+    border-color: @color-border;
+}
+
+.ant-input-number {
+    background: @color-background;
+    border-color: @color-border;
+    color: @color-white60;
+    .ant-input-number-handler-wrap {
+        background: #115395;
+        border-color: #115395;
+        .ant-input-number-handler {
+            color: rgba(255,255,255,0.5);
+            i {
+                color: rgba(255,255,255,0.5);
+            }
+            &:active {
+                background-color: @color-background;
+            }
+        }
+        .ant-input-number-handler-down {
+            border-color: @color-background;
+        }
+    }
+}

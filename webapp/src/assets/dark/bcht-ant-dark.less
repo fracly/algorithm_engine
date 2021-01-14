@@ -1,0 +1,209 @@
+
+// 公共变量
+@dark-placeholder: rgba(98, 162, 229, .3); // 默认替换文本
+
+
+
+/* 输入框 */
+/* 初始化ant placeholder */
+input::-webkit-input-placeholder,
+textarea::-webkit-input-placeholder,
+input.ant-input::-webkit-input-placeholder,
+textarea.ant-input::-webkit-input-placeholder{
+    color: @dark-placeholder;
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder,
+input.ant-input::-moz-placeholder,
+textarea.ant-input::-moz-placeholder {
+    color: @dark-placeholder;
+}
+
+.ant-select-selection__placeholder,
+.ant-select-search__field__placeholder {
+    color: @dark-placeholder;
+}
+
+
+
+/* ant-tree */
+.ant-tree {
+  color: @color-white60;
+
+  &.ant-tree-show-line{
+    li{
+        span.ant-tree-switcher{
+            background: #004c99;
+            color: #fff;
+        }
+    }
+  }
+
+  &.ant-tree-directory > li span.ant-tree-node-content-wrapper:hover::before {
+    background: @color-background;
+  }
+}
+
+.ant-tree li .ant-tree-node-content-wrapper {
+  color: @color-white60;
+}
+
+.ant-tree li .ant-tree-node-content-wrapper {
+  &:hover {
+    background: #104377;
+  }
+}
+
+.ant-tree li .ant-tree-node-content-wrapper.ant-tree-node-selected {
+  background: #104377;
+  color: @color-white60;
+}
+.ant-tree-checkbox-disabled.ant-tree-checkbox-checked .ant-tree-checkbox-inner::after {
+  border-color: rgba(255,255,255,.65);
+}
+
+
+
+/* select */
+.ant-select {
+  .ant-select-selection__clear{
+      background: none;
+
+      .anticon{
+          color: #fff;
+      }
+  }
+}
+
+
+
+/* ant-select-tree */
+.ant-select-tree .ant-select-tree-treenode-selected .ant-select-tree-title{
+  color: @color-black;
+}
+
+
+
+/* tree */
+.singleTree{
+  .ant-input-affix-wrapper{
+      .ant-input-search-icon{
+          color: @color-white;
+      }
+  }
+}
+
+
+/* ant-calendar */
+.ant-calendar{
+  .ant-calendar-time-picker-inner{
+    background-color: @color-background;
+  }
+
+  .ant-calendar-time-picker-select li:hover{
+      background-color: @color-hl2;
+  }
+  li.ant-calendar-time-picker-select-option-selected{
+      background-color: @color-hl2;
+  }
+  &.ant-calendar-time .ant-calendar-day-select{
+      color: @color-white60;
+  }
+}
+
+.ant-fullcalendar-container {
+  background: @color-background;
+  .ant-fullcalendar-today .ant-fullcalendar-value {
+      background: @color-background;
+  }
+  .ant-fullcalendar-value {
+      color: @color-white60;
+  }
+  .ant-fullcalendar-disabled-cell:not(.ant-fullcalendar-today) .ant-fullcalendar-date, .ant-fullcalendar-disabled-cell:not(.ant-fullcalendar-today) .ant-fullcalendar-date:hover {
+      background: transparent;
+  }
+}
+
+.ant-calendar-picker-container{
+  .ant-calendar-disabled-cell .ant-calendar-date{
+    background-color: #133558;
+
+    &:hover{
+      background-color: rgba(255, 255, 255, 0.1);
+    }
+  }
+}
+
+
+
+/* ant-time-picker */
+.ant-time-picker{
+  .ant-time-picker-input{
+    background-color: #003366;
+    border-color: #004c99;
+    color: rgba(255, 255, 255, .5);
+  }
+
+  .ant-time-picker-icon{
+    .ant-time-picker-clock-icon{
+      color: #fff;
+    }
+  }
+
+  .ant-time-picker-clear{
+    color: rgba(255, 255, 255, .5);
+    background: none;
+  }
+
+  &:hover{
+    .ant-time-picker-icon{
+      opacity: 0;
+    }
+  }
+}
+
+.ant-time-picker-panel{
+  .ant-time-picker-panel-input{
+    background: none;
+    color: rgba(255,255,255, .95);
+  }
+  .ant-time-picker-panel-inner{
+    background-color: #01457B;
+  }
+  .ant-time-picker-panel-input-wrap,
+  .ant-time-picker-panel-addon,
+  .ant-time-picker-panel-select{
+    border-color: #004C99;
+  }
+
+  .ant-time-picker-panel-select li{
+    color: rgba(255,255,255,.95);
+  }
+  .ant-time-picker-panel-select li:hover,
+  li.ant-time-picker-panel-select-option-selected{
+    background-color: #063A70;
+  }
+  li.ant-time-picker-panel-select-option-disabled{
+    color: rgba(255,255,255, .25);
+  }
+}
+
+
+
+/* ant-upload */
+.ant-upload-list-item:hover .ant-upload-list-item-info {
+  background: @color-background;
+  color: @color-white60;
+}
+
+
+
+/* ant-table */
+.ant-table-row-expand-icon {
+  background-color: #004F9E;
+  border: none;
+}
+tr.ant-table-expanded-row, tr.ant-table-expanded-row:hover {
+  background: @color-background;
+}

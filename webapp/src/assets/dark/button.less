@@ -1,0 +1,36 @@
+// 按钮
+
+.ant-btn {
+    background: @color-background;
+    border-color: @color-border;
+    color: @color-white;
+}
+.ant-btn:hover {
+    border-color: @color-hl;
+}
+.ant-btn-primary {
+    // background: @color-hl;
+    background-image: linear-gradient(80deg, #007fff, #006ad4);
+    border-color: @color-hl;
+}
+.ant-btn-primary:hover {
+    background: @color-hl2;
+    border-color: @color-hl2;
+}
+.ant-btn-danger {
+    border-color: #ff4d4f;
+    background: #ff4949;
+    color: #fff;
+    &:hover {
+        color: #fff;
+        background-color: #ff6d6e;
+        border-color: #ff4d4f;
+    }
+    &:active {
+        background-color: #e44242;
+    }
+}
+.ant-btn-link {
+    background: none;
+    border: none;
+}
